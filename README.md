@@ -31,6 +31,14 @@ The seven-round verification journey detailed in v1.6 §1.3-3.12: ~14.5 hours au
 
 ---
 
+## Discuss this code
+
+- **Bug, reproduction failure, or unexpected output?** → [Open an Issue](../../issues)
+- **Q&A — version compatibility, hardware, generalization to other inputs?** → [Start a Discussion](../../discussions)
+- **Discuss the paper itself** → [Comments on the website article](https://windstorminstitute.org/articles/throughput-basin-origin.html#comments) or [Issues on the Institute repo](https://github.com/Windstorm-Institute/throughput-basin-origin/issues)
+
+---
+
 ## The Windstorm Series
 
 | # | Paper | DOI |
